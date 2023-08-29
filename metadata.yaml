@@ -1,5 +1,8 @@
 _repo: Le-novelle-della-guerra_71446
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71446-h/images/cover.jpg
 creator:
   author:
     agent_name: Beltramelli, Antonio
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45566
     wikipedia: https://it.wikipedia.org/wiki/Antonio_Beltramelli
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71446#Le-novelle-della-guerra
 gutenberg_issued: '2023-08-19'
 identifiers:
   gutenberg: '71446'
